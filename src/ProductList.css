@@ -39,6 +39,14 @@ body {
    
 }
 
+.category-heading {
+    text-align: center;
+    padding: 15px 0;
+    margin: 20px 0 10px 0; /* Spacing around the bar */
+    font-size: 1.5rem;
+    border-radius: 5px; /* Optional: rounded corners */
+}
+
 /* Product Grid */
 .product-grid {
     display:flex;
